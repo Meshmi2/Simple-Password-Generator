@@ -1,0 +1,13 @@
+C:\Users\meshmi\source\repos\Pass\bin\Debug\netcoreapp3.1\Pass.exe
+C:\Users\meshmi\source\repos\Pass\bin\Debug\netcoreapp3.1\Pass.deps.json
+C:\Users\meshmi\source\repos\Pass\bin\Debug\netcoreapp3.1\Pass.runtimeconfig.json
+C:\Users\meshmi\source\repos\Pass\bin\Debug\netcoreapp3.1\Pass.runtimeconfig.dev.json
+C:\Users\meshmi\source\repos\Pass\bin\Debug\netcoreapp3.1\Pass.dll
+C:\Users\meshmi\source\repos\Pass\bin\Debug\netcoreapp3.1\Pass.pdb
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.AssemblyInfoInputs.cache
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.AssemblyInfo.cs
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.dll
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.pdb
+C:\Users\meshmi\source\repos\Pass\obj\Debug\netcoreapp3.1\Pass.genruntimeconfig.cache
